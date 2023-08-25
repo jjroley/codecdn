@@ -1,4 +1,4 @@
-# codecdn
+# quickcdn
 
 just a quick way for me to host files :)
 
